@@ -6,7 +6,7 @@
 **Database:** PostgreSQL  
 
 # School-database-using-Postgres
-A postgreSQL database schema and queries for managing school operations.
+Building a postgreSQL database schema and queries for managing school operations.
 
 ## Project Overview
 This project contains the SQL scripts built for Greenwood Academy, a secondary school based in Nairobi. It covers setting up the database structure, inserting data records, and running data analysis queries.
